@@ -1,4 +1,3 @@
-nano 8.5                        index.js
 const {
   default: makeWASocket,
   useMultiFileAuthState,
